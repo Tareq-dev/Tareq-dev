@@ -5,21 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tareq-dev" alt="tareq-dev" /></a> </p>
 
-- 🔭 I’m currently working on [Web Valley BD](https://webvalleybd.com/)
+- 🔭 I’m currently working on [Aziza Fashion](https://aziza-fashion.web.app/)
 
-- 🌱 I’m currently learning **Web Development With Jhankar Mahbub**
+- 🌱 I’m currently learning **D3.JS With DATAVIZ 2022**
 
 - 👯 I’m looking to collaborate on [Tareq-developer](https://github.com/Tareq-dev)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tareq-dev](https://github.com/Tareq-dev)
 
-- 📝 I regularly write articles on [https://webvalleybd.com/blogging/](https://webvalleybd.com/blogging/)
-
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **tareque.dev@gmail.com**
+- 📫 How to reach me **tareque.dev@gmail.com || tarequl.islam0025@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/ekrI5](shorturl.at/ekrI5)
+- 📄 Know about my experiences ** https://developer-tareq.netlify.app **
 
 - ⚡ Fun fact **I think I am Funny.**
 
