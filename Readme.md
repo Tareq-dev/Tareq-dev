@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tarequl Islam</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
+<h3 align="center">A passionate Full Stack Developer from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tareq-dev&label=Profile%20views&color=0e75b6&style=flat" alt="tareq-dev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tareq-dev" alt="tareq-dev" /></a> </p>
 
-- 🔭 I’m currently working on [Aziza Fashion](https://aziza-fashion.web.app/)
+- 🔭 I’m currently working on [Whatsbulk](https://whatsbulk-self.vercel.app/)
 
-- 🌱 I’m currently learning **D3.JS With DATAVIZ 2022**
+- 🌱 I’m currently learning **MYSQL from Udemy**
 
 - 👯 I’m looking to collaborate on [Tareq-developer](https://github.com/Tareq-dev)
 
