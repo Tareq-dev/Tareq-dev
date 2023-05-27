@@ -39,4 +39,4 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Tareq-dev"><img src="[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tareq-dev&bg_color=000000&color=f7f7f7&line=9c5ee8&point=fbff24&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Tareq-dev"><img src="https://github-readme-activity-graph.vercel.app/graph?username=tareq-dev&bg_color=000000&color=f7f7f7&line=9c5ee8&point=fbff24&area=true&hide_border=true)" alt="GitHub Commits Graph" /></a>
