@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tareq-dev" alt="tareq-dev" /></a> </p>
 
-- 🔭 I’m currently working on [Whatsbulk](https://whatsbulk-self.vercel.app/)
+- 🔭 I’m currently working on [Code Segment][(https://code-segment.vercel.app/) ]
 
-- 🌱 I’m currently learning **MYSQL from Udemy**
+- 🌱 I’m currently learning **GraphQL from Youtube**
 
 - 👯 I’m looking to collaborate on [Tareq-developer](https://github.com/Tareq-dev)
 
