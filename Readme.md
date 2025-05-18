@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [https://cs-v3.netlify.app]
 
-- 🌱 I’m currently learning **GraphQL from Youtube**
+- 🌱 I’m currently learning **Python from Skill Zone Academy, Chittagong**
 
 - 👯 I’m looking to collaborate on [Tareq-developer](https://github.com/Tareq-dev)
 
