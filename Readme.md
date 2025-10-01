@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tareq-dev" alt="tareq-dev" /></a> </p>
 
-- 🔭 I’m currently working on [https://cs-v3.netlify.app]
+- 🔭 I’m currently working on [(https://cryptech-ecom.vercel.app/)]
 
 - 🌱 I’m currently learning **Python from Skill Zone Academy, Chittagong**
 
