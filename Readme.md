@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarequl Islam</h1>
 <h3 align="center">A passionate Full Stack Developer from Bangladesh.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tareq-dev&label=Profile%20views&color=0e75b6&style=flat" alt="tareq-dev" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tareq-dev" alt="tareq-dev" /></a> </p>
 
 - 🔭 I’m currently working on [((https://school-management-trk.vercel.app/))]
@@ -22,7 +19,7 @@
 - ⚡ Fun fact **I think I am Funny.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- <p align="left">
 <a href="https://www.linkedin.com/in/tarequlislam25/" target="_blank">
   <img align="center" 
        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
@@ -31,23 +28,23 @@
        width="40" />
 </a>
 
-<a href="https://stackoverflow.com/users/17347609/tarequl-islam" target="_blank">
+<!-- <a href="https://stackoverflow.com/users/17347609/tarequl-islam" target="_blank">
   <img align="center" 
        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" 
        alt="Tarequl Islam StackOverflow" 
        height="30" 
        width="40" />
-</a>
+</a> -->
 
-<a href="https://www.facebook.com/tareq.mern" target="_blank">
+<!-- <a href="https://www.facebook.com/tareq.mern" target="_blank">
   <img align="center" 
        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
        alt="Tarequl Islam Facebook" 
        height="30" 
        width="40" />
-</a>
+</a> -->
 
-</p>
+</p> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
