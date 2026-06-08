@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tarequl Islam</h1>
 <h3 align="center">A passionate Full Stack Developer from Bangladesh.</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tareq-dev" alt="tareq-dev" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tareq-dev" alt="tareq-dev" /></a> </p> -->
 
 - 🔭 I’m currently working on [((https://school-management-trk.vercel.app/))]
 
