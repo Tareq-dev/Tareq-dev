@@ -9,7 +9,7 @@ Full-Stack Developer specializing in MERN and Next.js, with hands-on experience 
 * 🧠  I'm currently learning System design
 
 
-[![Linkedin Follow](https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/in/tarequlislam25)
+[![Linkedin Follow](https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarequlislam25)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/tareq.mern)
 
 
