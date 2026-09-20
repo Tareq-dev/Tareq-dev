@@ -1,165 +1,38 @@
-<h1 align="center">Hi 👋, I'm Tarequl Islam</h1>
-<h3 align="center">A passionate Full Stack Developer from Bangladesh.</h3>
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tareq-dev" alt="tareq-dev" /></a> </p> -->
+# Hi 👋 I am Tarequl Islam Tareq
+## Full Stack Developer
+Full-Stack Developer specializing in MERN and Next.js, with hands-on experience building and deploying full-stack web applications across LMS, e-commerce, CMS, and real-time task management. Skilled in React, Next.js, TypeScript, Node.js, REST/GraphQL APIs, PostgreSQL, MongoDB, and Docker, with a strong understanding of database design, authentication, API architecture, caching, and application performance. Self-taught in software development since 2022, bringing strong problem-solving skills, independent learning ability, and a practical approach to building real-world applications from frontend to backend.
 
-- 🔭 I’m currently working on [((https://nex-lms.vercel.app))]
+* 🌍  I'm based in Bangladesh and Remote.
+* 🖥️  See my portfolio at [Tarequl  Islam](https://developer-tareq.netlify.app/)
+* 👨‍💻  I'm currently working on [Nfinity lms](https://nfinity-lms.vercel.app/)
+* ✉️  You can reach me at [tareque.dev@gmail.com](mailto:tareque.dev@gmail.com)
+* 🧠  I'm currently learning System design
 
-- 🌱 I’m currently learning **Python from Skill Zone Academy, Chittagong**
 
-- 👯 I’m looking to collaborate on [Tareq-developer](https://github.com/Tareq-dev)
+[![Linkedin Follow](https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/tarequlislam25//)
+[![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tareq.mern)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Tareq-dev](https://github.com/Tareq-dev)
 
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **tareque.dev@gmail.com || tarequl.islam0025@gmail.com**
-
-- 📄 Know about my experiences ** https://developer-tareq.netlify.app **
-
-- ⚡ Fun fact **I think I am Funny.**
-
-<h3 align="left">Connect with me:</h3>
- <p align="left">
-<a href="https://www.linkedin.com/in/tarequlislam25/" target="_blank">
-  <img align="center" 
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-       alt="Tarequl Islam LinkedIn" 
-       height="30" 
-       width="40" />
-</a>
-
-  <a href="https://stackoverflow.com/users/17347609/tarequl-islam" target="_blank">
-  <img align="center" 
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" 
-       alt="Tarequl Islam StackOverflow" 
-       height="30" 
-       width="40" />
-</a> 
-
- <a href="https://www.facebook.com/tareq.mern" target="_blank">
-  <img align="center" 
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
-       alt="Tarequl Islam Facebook" 
-       height="30" 
-       width="40" />
-</a> 
-
-</p> 
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills:</h3>
 <p align="left">
-          <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-            <img
-              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-              alt="bootstrap"
-              width="40"
-              height="40"
-            />
-          </a>
-          <a
-            href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <img
-              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-              alt="javascript"
-              width="40"
-              height="40"
-            />
-          </a>
-          <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-            <img
-              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-              alt="react"
-              width="40"
-              height="40"
-            />
-          </a>
-          <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-            <img
-              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-              alt="nodejs"
-              width="40"
-              height="40"
-            />
-          </a>
-          <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-            <img
-              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-              alt="mongodb"
-              width="40"
-              height="40"
-            />
-          </a>
-          <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-            <img
-              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-              alt="mysql"
-              width="40"
-              height="40"
-            />
-          </a>
-          <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-            <img
-              src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-              alt="figma"
-              width="40"
-              height="40"
-            />
-          </a>
-          <a
-            href="https://firebase.google.com/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <img
-              src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-              alt="firebase"
-              width="40"
-              height="40"
-            />
-          </a>
-          <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-            <img
-              src="https://reactnative.dev/img/header_logo.svg"
-              alt="reactnative"
-              width="40"
-              height="40"
-            />
-          </a>
-          <a
-            href="https://www.typescriptlang.org/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <img
-              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-              alt="typescript"
-              width="40"
-              height="40"
-            />
-          </a>
-          <a
-            href="https://https://docs.python.org/3/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <img
-              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-              alt="typescript"
-              width="40"
-              height="40"
-            />
-          </a>
-        </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tareq-dev&show_icons=true&locale=en&layout=compact" alt="tareq-dev" /></p> -->
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JAVASCRIPT" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TYPESCRIPT" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="PYTHON" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="REACT" /></a> 
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="36" height="36" alt="REDUX" /></a> 
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="NEXTJS" /></a> 
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="NODEJS" /></a> 
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" height="36" alt="EXPRESS" /></a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MONGODB" /></a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MYSQL" /></a> 
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="POSTGRESQL" /></a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="36" height="36" alt="FIREBASE" /></a> 
+<a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36" height="36" alt="REDIS" /></a> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" height="36" alt="FIGMA" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="GIT" /></a>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tareq-dev&show_icons=true&locale=en" alt="tareq-dev" /></p> -->
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tareq-dev&" alt="tareq-dev" /></p>
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Tareq-dev"><img src="https://github-readme-activity-graph.vercel.app/graph?username=tareq-dev&bg_color=000000&color=f7f7f7&line=9c5ee8&point=fbff24&area=true&hide_border=true)" alt="GitHub Commits Graph" /></a>
